@@ -10,3 +10,4 @@ trafilatura
 requests
 lxml
 dotenv
+rich
